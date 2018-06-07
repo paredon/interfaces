@@ -46,7 +46,8 @@ export default {
       url: '/INGRESAURL',
       icon: 'icon-puzzle',
     },
-    //marico el que lo lea xddd
+    
+    //marico el que lo lea xddd otra vez xd 
     {
       name: 'Adicion, Cambio o Retiro',
       url: '/INGRESAURL',
